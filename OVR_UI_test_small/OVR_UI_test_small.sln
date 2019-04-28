@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D3111116-7610-CCBC-2561-3C588197F80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR", "Oculus.VR.csproj", "{50B3A7DD-66F5-BA07-8A63-F0AD17AAA1A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{40C8E076-C319-8D38-DFDE-B7A243D2081D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Scripts.Editor", "Oculus.VR.Scripts.Editor.csproj", "{D6976378-C5EB-08DB-7E72-3FD385740061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Editor", "Oculus.VR.Editor.csproj", "{298EDEE0-1FB1-B266-7C08-D76B472B146C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3111116-7610-CCBC-2561-3C588197F80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3111116-7610-CCBC-2561-3C588197F80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3111116-7610-CCBC-2561-3C588197F80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3111116-7610-CCBC-2561-3C588197F80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B3A7DD-66F5-BA07-8A63-F0AD17AAA1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B3A7DD-66F5-BA07-8A63-F0AD17AAA1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B3A7DD-66F5-BA07-8A63-F0AD17AAA1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B3A7DD-66F5-BA07-8A63-F0AD17AAA1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C8E076-C319-8D38-DFDE-B7A243D2081D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C8E076-C319-8D38-DFDE-B7A243D2081D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C8E076-C319-8D38-DFDE-B7A243D2081D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C8E076-C319-8D38-DFDE-B7A243D2081D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6976378-C5EB-08DB-7E72-3FD385740061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6976378-C5EB-08DB-7E72-3FD385740061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6976378-C5EB-08DB-7E72-3FD385740061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6976378-C5EB-08DB-7E72-3FD385740061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298EDEE0-1FB1-B266-7C08-D76B472B146C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298EDEE0-1FB1-B266-7C08-D76B472B146C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298EDEE0-1FB1-B266-7C08-D76B472B146C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298EDEE0-1FB1-B266-7C08-D76B472B146C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
